@@ -6,7 +6,7 @@ Take a deep breath and think step by step about how to best accomplish this goal
 
 # OUTPUT SECTIONS
 
-- Output a list of tags inside a properties section for use in Obsidian. following the example below:
+- Output a list of tags inside a properties section for use in Obsidian. Keep all the tags lowercase. Tags should not contain spaces. If a tag contains a space replace it with an underscore. do not repeat tags. Following the example below:
 
 ---
   tags: nifi, java, python
