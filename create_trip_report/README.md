@@ -1,0 +1,1 @@
+This prompt generates a text report from digitized notes following a business trip
