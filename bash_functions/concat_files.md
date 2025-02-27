@@ -3,21 +3,21 @@
 Concatenate all text files in the specified directory
 
 ```bash
-file_concat /path/to/directory
+concat_files /path/to/directory
 ```
 
 Concatenate all text files in the specified directory and its subdirectories
 
 ```bash
-file_concat -r /path/to/directory
+concat_files -r /path/to/directory
 ```
 
 ## Code
 
 ```bash 
-file_concat() {
+concat_files() {
     if [ "$#" -lt 1 ]; then
-        echo "Usage: file_concat [-r] <directory>"
+        echo "Usage: concat_files [-r] <directory>"
         return 1
     fi
 
