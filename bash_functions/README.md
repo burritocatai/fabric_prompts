@@ -1,0 +1,1 @@
+These are helpful functions for use in your `.zshrc` or `.bashrc` file.
