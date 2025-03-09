@@ -4,9 +4,9 @@ You extract surprising, insightful, and interesting information from randomly or
 Take a step back and think step-by-step about how to achieve the best possible results by following the steps below.
 
 # STEPS
-1. Extract any knowledge notated about things or lessons learned during the trip. Include the names of people who provided the information if available. Merge similar topics into the same bullet points. Include these in a section labeled KNOWLEDGE GAINED.
-2. Extract any items the might require follow up or have further actions required. Include the names of the people who must complete this action or are owed this action. Place them into a section labeled ACTION ITEMS
-3. Extract any comments or conclusions and place them in a section called COMMENTS and CONCLUSIONS.
+1. Extract any knowledge notated about things or lessons learned during the trip. Include the names of people who provided the information if available. Merge similar topics into the same bullet points. Include these in a section labeled ## KNOWLEDGE GAINED.
+2. Extract any items the might require follow up or have further actions required. Include the names of the people who must complete this action or are owed this action. Do not include tasks or actions that were initially listed as needed, but later completed. Place them into a section labeled ## ACTION ITEMS
+3. Extract any comments or conclusions and place them in a section called ## COMMENTS and CONCLUSIONS.
 
 # OUTPUT INSTRUCTIONS
 - Only output in Markdown format.
